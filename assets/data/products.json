@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods Pro (2. Nesil)",
+    "category": "Ses",
+    "price": 249.0,
+    "description": "Aktif gürültü engelleme özellikli, uyarlanabilir ses deneyimi sunan kablosuz kulaklık.",
+    "colorHex": "#F2F2F7",
+    "iconName": "headset",
+    "specs": [
+      "Aktif Gürültü Engelleme",
+      "Bluetooth 5.3",
+      "MagSafe Şarj"
+    ],
+    "imageUrl": "https://placehold.co/600x600/F2F2F7/6E6E73/png?text=AirPods+Pro+%282.+Nesil%29&font=roboto"
+  },
+  {
+    "id": 2,
+    "name": "AirPods Max",
+    "category": "Ses",
+    "price": 549.0,
+    "description": "Yüksek kaliteli ses ve konforlu tasarım sunan üst düzey kulak üstü kulaklık.",
+    "colorHex": "#E5E5EA",
+    "iconName": "headphones",
+    "specs": [
+      "20 Saat Pil Ömrü",
+      "Uzaysal Ses",
+      "Hafif Alüminyum Kasa"
+    ],
+    "imageUrl": "https://placehold.co/600x600/E5E5EA/6E6E73/png?text=AirPods+Max&font=roboto"
+  },
+  {
+    "id": 3,
+    "name": "HomePod",
+    "category": "Akıllı Ev",
+    "price": 299.0,
+    "description": "Odayı dolduran güçlü ses ve akıllı ev entegrasyonu sunan hoparlör.",
+    "colorHex": "#D1D1D6",
+    "iconName": "speaker",
+    "specs": [
+      "360 Derece Ses",
+      "Akıllı Asistan",
+      "Oda Algılama"
+    ],
+    "imageUrl": "https://placehold.co/600x600/D1D1D6/6E6E73/png?text=HomePod&font=roboto"
+  },
+  {
+    "id": 4,
+    "name": "HomePod Mini",
+    "category": "Akıllı Ev",
+    "price": 99.0,
+    "description": "Kompakt boyutuyla her odaya kolayca yerleşen, canlı ve dengeli ses sunan akıllı hoparlör.",
+    "colorHex": "#FFD9D6",
+    "iconName": "speaker_group",
+    "specs": [
+      "3.3 inç",
+      "360 Derece Ses",
+      "5 Renk Seçeneği"
+    ],
+    "imageUrl": "https://placehold.co/600x600/FFD9D6/6E6E73/png?text=HomePod+Mini&font=roboto"
+  },
+  {
+    "id": 5,
+    "name": "iPhone 15 Pro",
+    "category": "Telefon",
+    "price": 999.0,
+    "description": "Titanyum gövdeli, güçlü işlemcili ve gelişmiş kamera sistemine sahip amiral gemisi telefon.",
+    "colorHex": "#E3E3E8",
+    "iconName": "smartphone",
+    "specs": [
+      "Titanyum Kasa",
+      "A17 Pro Çip",
+      "Pro Kamera Sistemi"
+    ],
+    "imageUrl": "https://placehold.co/600x600/E3E3E8/6E6E73/png?text=iPhone+15+Pro&font=roboto"
+  },
+  {
+    "id": 6,
+    "name": "MacBook Pro 14\"",
+    "category": "Bilgisayar",
+    "price": 1999.0,
+    "description": "Profesyonel iş yükleri için tasarlanmış, yüksek performanslı dizüstü bilgisayar.",
+    "colorHex": "#D6D6DC",
+    "iconName": "laptop_mac",
+    "specs": [
+      "M-Serisi Çip",
+      "Liquid Retina XDR",
+      "22 Saat Pil"
+    ],
+    "imageUrl": "https://placehold.co/600x600/D6D6DC/6E6E73/png?text=MacBook+Pro+14%22&font=roboto"
+  },
+  {
+    "id": 7,
+    "name": "iPad Air",
+    "category": "Tablet",
+    "price": 599.0,
+    "description": "İnce ve hafif tasarımıyla her yerde yüksek performans sunan tablet.",
+    "colorHex": "#F0F0F5",
+    "iconName": "tablet_mac",
+    "specs": [
+      "10.9 inç Ekran",
+      "Apple Pencil Desteği",
+      "Full Gece Işığı"
+    ],
+    "imageUrl": "https://placehold.co/600x600/F0F0F5/6E6E73/png?text=iPad+Air&font=roboto"
+  },
+  {
+    "id": 8,
+    "name": "Apple Watch SE",
+    "category": "Giyilebilir",
+    "price": 249.0,
+    "description": "Sağlık ve fitness takibini gündelik hayatına kolayca entegre eden akıllı saat.",
+    "colorHex": "#FFE1D6",
+    "iconName": "watch",
+    "specs": [
+      "Kalp Ritmi Takibi",
+      "Su Geçirmez",
+      "18 Saat Pil"
+    ],
+    "imageUrl": "https://placehold.co/600x600/FFE1D6/6E6E73/png?text=Apple+Watch+SE&font=roboto"
+  }
+]
